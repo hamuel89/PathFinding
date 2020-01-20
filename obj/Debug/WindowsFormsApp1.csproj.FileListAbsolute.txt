@@ -1,0 +1,8 @@
+C:\Users\hamuel\Downloads\Robotics\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\hamuel\Downloads\Robotics\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\hamuel\Downloads\Robotics\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\hamuel\Downloads\Robotics\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\hamuel\Downloads\Robotics\bin\Debug\WindowsFormsApp1.exe
+C:\Users\hamuel\Downloads\Robotics\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\hamuel\Downloads\Robotics\obj\Debug\WindowsFormsApp1.exe
+C:\Users\hamuel\Downloads\Robotics\obj\Debug\WindowsFormsApp1.pdb
